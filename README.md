@@ -14,7 +14,7 @@ The full, copy-ready MATLAB code is available on **Gumroad** in a well-documente
 
 ## 📦 What’s Inside
 
-- **UAV_Optimization_Code.docx** – Copy-paste-ready MATLAB code with section-wise explanations  
+- **COMPREHENSIVE AIRCRAFT DESIGN OPTIMIZATION SCRIPT.docx** – Copy-paste-ready MATLAB code with section-wise explanations  
 - Sample inputs and guidance for customization  
 - Support for mission-based constraint checks and performance evaluation  
 - Output plots for:
